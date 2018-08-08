@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,400i,700");
+
+* {padding: 0px; margin: 0px}
+
+canvas, p {position: absolute}
+
+p {
+	z-index: 1; 
+	color: white;
+	margin: 10px;
+	font-family: Raleway;
+}
